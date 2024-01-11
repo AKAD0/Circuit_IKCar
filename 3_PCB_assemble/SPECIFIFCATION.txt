@@ -1,0 +1,14 @@
+Assemble Specification
+//N //NAME			//COMMENT		//QUANTITY
+1.	Arduino UNO		Arduino			1
+2.	SG90			Servo motor		1
+3.	Button			Button			1
+4.	B10K			Potentiometer	1
+5.	JQC-3FF-S-Z		Relay w board	1
+6.	3V Coll. Motor	Collector motor	1
+7.	1838B			IR detector		1
+8.	6F22 9V			9V Battery		1
+9.	AA				AA 1.5V Battery	6
+10.	9V Batt.Clamp	Clamp for 9V	1
+11. AA x2 holder	Battery holder	1
+12. AA x4 holder	Battery holder	1
